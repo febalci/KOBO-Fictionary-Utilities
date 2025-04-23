@@ -1,1 +1,90 @@
+Tomad	<b>Tomad Sengar</b><br>Sengar Soyu'nun patriği<br><i>Tiste Edurlar</i>
+Uruth	Sengar Soyu'nun matronu<br><i>Tiste Edurlar</i>
+Korku	(Fear)<br>Sengar, Büyük Oğul, Kabilelerin Silah Ustası<br><i>Tiste Edurlar</i>
+Trull	<b>Trull Sengar</b><br>İkinci Oğul<br><i>Tiste Edurlar</i>
+Binadas	<b>Binadas Sengar</b><br>Üçüncü Oğul<br><i>Tiste Edurlar</i>
+Rhulad	<b>Rhulad Sengar</b><br>Dördüncü ve En Küçük Oğul<br><i>Tiste Edurlar</i>
+Mayen	Korku'nun Sözlüsü<br><i>Tiste Edurlar</i>
+Hannan	<b>Hannan Mosag</b><br>Altı Kabile Konfederasyonu'nun Bağcı Kralı<br><i>Tiste Edurlar</i>
+Theradas	<b>Theradas Buhn</b><br>Buhn Soyu'nun Büyük Oğlu<br><i>Tiste Edurlar</i>
+Midik	<b>Midik Buhn</b><br>İkinci Oğul<br><i>Tiste Edurlar</i>
+Badar	bir kan dökmemiş<br><i>Tiste Edurlar</i>
+Rethal	bir savaşçı<br><i>Tiste Edurlar</i>
+Canarth	bir savaşçı<br><i>Tiste Edurlar</i>
+Choram	<b>Choram Irard</b><br>bir kan dökmemiş<br><i>Tiste Edurlar</i>
+Kholb	<b>Kholb Harat</b><br>bir kan dökmemiş<br><i>Tiste Edurlar</i>
+Matra	<b>Matra Brith</b><br>bir kan dökmemiş<br><i>Tiste Edurlar</i>
+Udinaas	<i>Tiste Edurlar Arasındaki Letherii Köleler</i>
+Tüy	<b>Tüy Cadı</b><br>(Feather Witch)<br><i>Tiste Edurlar Arasındaki Letherii Köleler</i>
+Hulad	<i>Tiste Edurlar Arasındaki Letherii Köleler</i>
+Virrick	<i>Tiste Edurlar Arasındaki Letherii Köleler</i>
+Ezgara	<b>Ezgara Diskanar</b><br>Letheras Kralı<br>Letheriiler<br><i>Sarayda</i>
+Janall	Letheras Kraliçesi<br>Letheriiler<br><i>Sarayda</i>
+Quillas	<b>Quillas Diskanar</b><br>Prens ve Veliaht<br>Letheriiler<br><i>Sarayda</i>
+Unnutal	<b>Unnutal Hebaz</b><br>Letheras ordusunda Preda (Komutan)<br>Letheriiler<br><i>Sarayda</i>
+Brys	<b>Brys Beddict</b><br>Finadd (Yüzbaşı) ve Kralın Şampiyonu, Beddict kardeşlerin en genci<br>Letheriiler<br><i>Sarayda</i>
+Nevath	Prens Quillas Diskanar'ın bir Finadd olan muhafızı<br>Letheriiler<br><i>Sarayda</i>
+Qan	<b>Kuru Qan</b><br>Kralın Ceda'sı (Efsuncusu)<br>Letheriiler<br><i>Sarayda</i>
+Nisall	Kralın İlk Cariyesi<br>Letheriiler<br><i>Sarayda</i>
+Turudal	<b>Turudal Brizad</b><br>Kraliçenin İlk Metresi<br>Letheriiler<br><i>Sarayda</i>
+Nifadas	İlk Hadımağası<br>Letheriiler<br><i>Sarayda</i>
+Gerun	<b>Gerun Eberict</b><br>Kraliyet Muhafızlarında Finadd<br>Letheriiler<br><i>Sarayda</i>
+Triban	<b>Triban Gnol</b><br>Şansölye<br>Letheriiler<br><i>Sarayda</i>
+Laerdas	Prens'in maiyetindeki bir büyücü<br>Letheriiler<br><i>Sarayda</i>
+Buruk	<b>Sarı Buruk</b><br>kuzeydeki bir tüccar<br>Letheriiler<br><i>Kuzeyde</i>
+Seren	<b>Seren Pedac</b><br>Sarı Buruk'un İbracısı<br>Letheriiler<br><i>Kuzeyde</i>
+Hull	<b>Hull Beddict</b><br>Kuzeydeki Gözetmen, Beddict kardeşlerin en büyüğü<br>Letheriiler<br><i>Kuzeyde</i>
+Nekal	<b>Nekal Bara</b><br>bir efsuncu<br>Letheriiler<br><i>Kuzeyde</i>
+Arahathan	bir büyücü<br>Letheriiler<br><i>Kuzeyde</i>
+Enedictal	bir büyücü<br>Letheriiler<br><i>Kuzeyde</i>
+Yan	<b>Yan Tovis</b><br>(Tan)<br>Fent Menzili'ndeki Atri—Preda<br>Letheriiler<br><i>Kuzeyde</i>
+Tehol	<b>Tehol Beddict</b><br>başkentteki bir vatandaş, Beddict kardeşlerin ortancası<br>Letheriiler<br><i>Letheras Şehrinde</i>
+Hejun	Tehol'un bir çalışanı<br>Letheriiler<br><i>Letheras Şehrinde</i>
+Rissarh	Tehol'un bir çalışanı<br>Letheriiler<br><i>Letheras Şehrinde</i>
+Shand	Tehol'un bir çalışanı<br>Letheriiler<br><i>Letheras Şehrinde</i>
+Chalas	bir bekçi<br>Letheriiler<br><i>Letheras Şehrinde</i>
+Biri	bir tüccar<br>Letheriiler<br><i>Letheras Şehrinde</i>
+Huldo	bir müessese sahibi<br>Letheriiler<br><i>Letheras Şehrinde</i>
+Bugg	Tehol'un kethüdası<br>Letheriiler<br><i>Letheras Şehrinde</i>
+Ublala	<b>Ublala Pung</b><br>bir suçlu<br>Letheriiler<br><i>Letheras Şehrinde</i>
+Harlest	bir aile muhafızı<br>Letheriiler<br><i>Letheras Şehrinde</i>
+Ormly	Şampiyon Sıçan Yakalayıcısı<br>Letheriiler<br><i>Letheras Şehrinde</i>
+Rucket	Baş Teftişçi<br>Sıçan Yakalayıcılar Loncası<br>Letheriiler<br><i>Letheras Şehrinde</i>
+Bubyrd	Sıçan Yakalayıcılar Loncası<br>Letheriiler<br><i>Letheras Şehrinde</i>
+Parılda	(Glisten)<br>Sıçan Yakalayıcılar Loncası<br>Letheriiler<br><i>Letheras Şehrinde</i>
+Yakut	(Ruby)<br>Sıçan Yakalayıcılar Loncası<br>Letheriiler<br><i>Letheras Şehrinde</i>
+Akik	(Onyx)<br>Sıçan Yakalayıcılar Loncası<br>Letheriiler<br><i>Letheras Şehrinde</i>
+Scint	Sıçan Yakalayıcılar Loncası<br>Letheriiler<br><i>Letheras Şehrinde</i>
+İbrik	(Kettle)<br>bir çocuk<br>Letheriiler<br><i>Letheras Şehrinde</i>
+Shurq	<b>Shurq Elalle</b><br>bir hırsız<br>Letheriiler<br><i>Letheras Şehrinde</i>
+Selush	bir Ölü Giydiricisi<br>Letheriiler<br><i>Letheras Şehrinde</i>
+Padderunt	Selush'un asistanı<br>Letheriiler<br><i>Letheras Şehrinde</i>
+Urul	Huldo'nun mekânında baş garson<br>Letheriiler<br><i>Letheras Şehrinde</i>
+Inchers	bir vatandaş<br>Letheriiler<br><i>Letheras Şehrinde</i>
+Hulbat	bir vatandaş<br>Letheriiler<br><i>Letheras Şehrinde</i>
+Turble	bir vatandaş<br>Letheriiler<br><i>Letheras Şehrinde</i>
+Unn	melez bir muhtaç<br>Letheriiler<br><i>Letheras Şehrinde</i>
+Delisp	Tapınak Genelev Matronu<br>Letheriiler<br><i>Letheras Şehrinde</i>
+Prist	bir bahçıvan<br>Letheriiler<br><i>Letheras Şehrinde</i>
+Rall	<b>Güçlü Rall</b><br>(Strong Rall)<br>bir kiralık katil<br>Letheriiler<br><i>Letheras Şehrinde</i>
+Yeşil	<b>Yeşil Domuz</b><br>(Green Pig)<br>eski zamanların kötü şöhretli bir büyücüsü<br>Letheriiler<br><i>Letheras Şehrinde</i>
+Withal	bir Meckros silahçı<br><i>Ötekiler</i>
+Rind	bir Nacht<br><i>Ötekiler</i>
+Mape	bir Nacht<br><i>Ötekiler</i>
+Pule	bir Nacht<br><i>Ötekiler</i>
+Silchas	<b>Silchas Harap</b><br>(Ruin)<br>bir Tiste Andii Eleint Tektutan<br><i>Ötekiler</i>
+Scabandari	<b>Scabandari Kanlıgöz</b><br>(Bloodeye)<br>bir Tiste Edur Eleint Tektutan<br><i>Ötekiler</i>
+Gothos	bir Jaghut<br><i>Ötekiler</i>
+Rud	<b>Rud Elalle</b><br>bir çocuk<br><i>Ötekiler</i>
+Parmaklık	Demir Parmaklık (Iron Bars)<br>bir asker<br><i>Ötekiler</i>
+Corlo	bir büyücü<br><i>Ötekiler</i>
+Yarımgaga	(Halfpeck)<br>bir asker<br><i>Ötekiler</i>
+Ulshun	<b>Ulshun Pral</b><br>bir Imass<br><i>Ötekiler</i>
+Atri—Preda	bir şehri veya kasabayı yöneten askeri komutan<br><i>Letherii Unvanları</i>
+Ceda	Kralın büyücüsünün unvanı<br><i>Letherii Unvanları</i>
+Finadd	orduda yüzbaşı dengi<br><i>Letherii Unvanları</i>
+Gözetmen	Letherii dışı halklarla ilk teması kuran Kralın Sesi<br><i>Letherii Unvanları</i>
+İbracı	Letherii dışı halklarla muhatap olurken rehber/aracı görevi yürüten resmi bir mevki<br><i>Letherii Unvanları</i>
+Kralın Müsaadesi	taşıyanı her türlü adli hükümden muaf tutan bir unvan<br><i>Letherii Unvanları</i>
+Preda	orduda kumandan veya general dengi<br><i>Letherii Unvanları</i>
 
