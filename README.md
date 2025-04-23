@@ -59,9 +59,9 @@ Rhulad	<b>Rhulad Sengar</b><br>Dördüncü ve En Küçük Oğul<br><i>Tiste Edur
 * You can use html codes in work explanations
 
 4. ```$pyglossary mydictionary.txt ./mydictionary --sort --write-format=StardictMergeSyns```
-5. Your dictionary is ready. But most probably you will need a synonyms file too.
+5. Your dictionary is ready. Optionally, you can also create a synonym file. Like [Name],[Surname], [Name Surname]  and [Alias] will all result to a single word entry.
 6. Create a synonyms.txt file
-7. Optionally, define synonyms in this file:
+7. Define synonyms in this file:
 
 Sample:
 ```
