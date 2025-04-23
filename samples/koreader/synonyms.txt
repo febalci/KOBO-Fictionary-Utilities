@@ -1,0 +1,57 @@
+Tomad Sengar	Tomad
+Trull Sengar	Trull
+Binadas Sengar	Binadas
+Rhulad Sengar	Rhulad
+Sengar	Tomad
+Sengar	Trull
+Sengar	Rhulad
+Mosag	Hannan
+Hannan Mosag	Hannan
+Theradas Buhn	Theradas
+Midik Buhn	Midik
+Buhn	Theradas
+Buhn	Midik
+Choram Irard	Choram
+Irard	Choram
+Kholb Harat	Kholb
+Harat	Kholb
+Matra Brith	Matra
+Brith	Matra
+Ezgara Diskanar	Ezgara
+Quillas Diskanar	Quillas
+Diskanar	Ezgara
+Diskanar	Quillas
+Unnutal Hebaz	Unnutal
+Hebaz	Unnutal
+Brys Beddict	Brys
+Moroch Nevath	Nevath
+Moroch	Nevath
+Kuru Qan	Qan
+Kuru	Qan
+Turudal Brizad	Turudal
+Brizad	Turudal
+Gerun Eberict	Gerun
+Eberict	Gerun
+Triban Gnol	Triban
+Gnol	Triban
+Sarı Buruk	Buruk
+Sarı	Buruk
+Hull Beddict	Hull
+Nekal Bara	Nekal
+Bara	Nekal
+Yan Tovis	Yan
+Tovis	Yan
+Tehol Beddict	Tehol
+Ublala Pung	Ublala
+Pung	Ublala
+Shurq Elalle	Shurq
+Güçlü Rall	Rall
+Yeşil Domuz	Yeşil
+Domuz	Yeşil
+Silchas Harap	Silchas
+Harap	Silchas
+Scabandari Kanlıgöz	Scabandari
+Kanlıgöz	Scabandari
+Rud Elalle	Rud
+Ulshun Pral	Ulshun
+Pral	Ulshun
