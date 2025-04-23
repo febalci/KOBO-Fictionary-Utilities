@@ -40,6 +40,7 @@ Tiste Edurlar
 6. Copy this file to KOBOeReader/.kobo/custom-dictionary folder.
 
 ## koreader Dictionary
+* koreader uses Stardict dictionary only.
 1. Install pyglossary (https://github.com/ilius/pyglossary)
 2. Create a .TXT file with the extension .txt
 3. Define characters or words here:
