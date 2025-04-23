@@ -77,4 +77,7 @@ Sengar[TAB]Rhulad
 * Right side after [TAB] should match one of the words in mydictionary.txt file
 
 8. Execute syncreate.py file. This will create .syn file.
-9. Copy all mydictionary(.idx, .ifo, .dict.dz and optionally .syn) files to /KOBOeReader/.adds/koreader/data/dict/mydictionary/ folder.
+```
+$python3 syncreate.py mydictionary synonyms.txt
+```
+10. Copy all mydictionary(.idx, .ifo, .dict.dz and optionally .syn) files to /KOBOeReader/.adds/koreader/data/dict/mydictionary/ folder.
