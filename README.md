@@ -1,2 +1,80 @@
 # KOBO-Fictionary-Utilities
-How to create D/Fictionaries for KOBO and koreader on KOBBO eReader
+How to create D/Fictionaries for KOBO and koreader on KOBO eReader
+## KOBO Dictionary
+1. Install dictgen (https://github.com/pgaskin/dictutil)
+2. Create a .txt file with the extension .df
+3. Define characters or words here:
+
+Simple Sample:
+```
+@ word
+Definition here.
+@ word 1
+Definition 1 here.
+@ test
+Blah blah blah.
+```
+
+Another Sample:
+```
+@ Hannan
+& Mosag
+: , Hannan Mosag
+Altı Kabile Konfederasyonu'nun Bağcı Kralı\
+Tiste Edurlar
+@ Theradas
+: , Theradas Buhn
+Buhn Soyu'nun Büyük Oğlu\
+Tiste Edurlar
+```
+
+### Dictfile reference for dictgen
+    @ HEADWORD: Start a new entry. The headword doesn’t have to be unique, and can contain spaces.
+        Header
+            : WORD_INFO or :: (optional): Add extra word info after the headword, or remove it entirely.
+            & VARIANT (optional): Add an additional word to match. Follows the same rules as the headword. Can be repeated multiple times.
+        Body
+            MARKDOWN or <html> RAW_HTML: Include a definition written in Markdown or raw HTML code.
+4. $dictgen mydictionary.df
+5. It creates a dicthtml-mydictionary.zip file.
+6. Copy this file to KOBOeReader/.kobo/custom-dictionary folder.
+
+## koreader Dictionary
+1. Install pyglossary (https://github.com/ilius/pyglossary)
+2. Create a .TXT file with the extension .txt
+3. Define characters or words here:
+
+Sample:
+```
+Tomad	<b>Tomad Sengar</b><br>Sengar Soyu'nun patriği<br><i>Tiste Edurlar</i>
+Uruth[TAB]Sengar Soyu'nun matronu<br><i>Tiste Edurlar</i>
+Korku[TAB](Fear)<br>Sengar, Büyük Oğul, Kabilelerin Silah Ustası<br><i>Tiste Edurlar</i>
+Trull[TAB]<b>Trull Sengar</b><br>İkinci Oğul<br><i>Tiste Edurlar</i>
+Binadas[TAB]<b>Binadas Sengar</b><br>Üçüncü Oğul<br><i>Tiste Edurlar</i>
+Rhulad	<b>Rhulad Sengar</b><br>Dördüncü ve En Küçük Oğul<br><i>Tiste Edurlar</i>
+```
+
+* Press tab key instead of [TAB]. Make sure your editor does not change tabs to spaces
+* You can use html codes in work explanations
+
+4. $pyglossary mydictionary.txt ./mydictionary --sort --write-format=StardictMergeSyns
+5. Your dictionary is ready. But most probably you will need a synonyms file too.
+6. Create a synonyms.txt file
+7. Optionally, define synonyms in this file:
+
+Sample:
+```
+Tomad Sengar[TAB]Tomad
+Trull Sengar[TAB]Trull
+Binadas Sengar[TAB]Binadas
+Rhulad Sengar[TAB]Rhulad
+Sengar[TAB]Tomad
+Sengar[TAB]Trull
+Sengar[TAB]Rhulad
+```
+
+* Press tab key instead of [TAB]. Make sure your editor does not change tabs to spaces
+* Right side after [TAB] should match one of the words in mydictionary.txt file
+
+8. Execute syncreate.py file. This will create .syn file.
+9. Copy all mydictionary(.idx, .ifo, .dict.dz and optionally .syn) files to /KOBOeReader/.adds/koreader/data/dict/mydictionary/ folder.
