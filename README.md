@@ -35,7 +35,7 @@ Tiste Edurlar
             & VARIANT (optional): Add an additional word to match. Follows the same rules as the headword. Can be repeated multiple times.
         Body
             MARKDOWN or <html> RAW_HTML: Include a definition written in Markdown or raw HTML code.
-4. $dictgen mydictionary.df
+4. ```$dictgen mydictionary.df```
 5. It creates a dicthtml-mydictionary.zip file.
 6. Copy this file to KOBOeReader/.kobo/custom-dictionary folder.
 
@@ -57,7 +57,7 @@ Rhulad	<b>Rhulad Sengar</b><br>Dördüncü ve En Küçük Oğul<br><i>Tiste Edur
 * Press tab key instead of [TAB]. Make sure your editor does not change tabs to spaces
 * You can use html codes in work explanations
 
-4. $pyglossary mydictionary.txt ./mydictionary --sort --write-format=StardictMergeSyns
+4. ```$pyglossary mydictionary.txt ./mydictionary --sort --write-format=StardictMergeSyns```
 5. Your dictionary is ready. But most probably you will need a synonyms file too.
 6. Create a synonyms.txt file
 7. Optionally, define synonyms in this file:
@@ -76,8 +76,5 @@ Sengar[TAB]Rhulad
 * Press tab key instead of [TAB]. Make sure your editor does not change tabs to spaces
 * Right side after [TAB] should match one of the words in mydictionary.txt file
 
-8. Execute syncreate.py file. This will create .syn file.
-```
-$python3 syncreate.py mydictionary synonyms.txt
-```
+8. Execute syncreate.py file. This will create .syn file.```$python3 syncreate.py mydictionary synonyms.txt```
 10. Copy all mydictionary(.idx, .ifo, .dict.dz and optionally .syn) files to /KOBOeReader/.adds/koreader/data/dict/mydictionary/ folder.
