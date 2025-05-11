@@ -1,384 +1,618 @@
-@ Tomad
-: , Tomad Sengar
-Sengar Soyu'nun patriği\
-Tiste Edurlar
-@ Uruth
-Sengar Soyu'nun matronu\
-Tiste Edurlar
-@ Korku
-: , (Fear)
-Sengar, Büyük Oğul, Kabilelerin Silah Ustası\
-Tiste Edurlar
-@ Trull
-: , Trull Sengar
-İkinci Oğul\
-Tiste Edurlar
-@ Binadas
-: , Binadas Sengar
-Üçüncü Oğul\
-Tiste Edurlar
-@ Rhulad
-: , Rhulad Sengar
-Dördüncü ve En Küçük Oğul\
-Tiste Edurlar
-@ Mayen
-Korku'nun Sözlüsü\
-Tiste Edurlar
-@ Hannan
-& Mosag
-: , Hannan Mosag
-Altı Kabile Konfederasyonu'nun Bağcı Kralı\
-Tiste Edurlar
-@ Theradas
-: , Theradas Buhn
-Buhn Soyu'nun Büyük Oğlu\
-Tiste Edurlar
-@ Midik
-: , Midik Buhn
-İkinci Oğul\
-Tiste Edurlar
-@ Badar
-bir kan dökmemiş\
-Tiste Edurlar
-@ Rethal
-bir savaşçı\
-Tiste Edurlar
-@ Canarth
-bir savaşçı\
-Tiste Edurlar
-@ Choram
-& Irard
-: , Choram Irard
-bir kan dökmemiş\
-Tiste Edurlar
-@ Kholb
-& Harat
-: , Kholb Harat
-bir kan dökmemiş\
-Tiste Edurlar
-@ Matra
-& Brith
-: , Matra Brith
-bir kan dökmemiş\
-Tiste Edurlar
-@ Udinaas
-Tiste Edurlar Arasındaki Letherii Köleler
-@ Tüy Cadı
-: , (Feather Witch)
-Tiste Edurlar Arasındaki Letherii Köleler
-@ Hulad
-Tiste Edurlar Arasındaki Letherii Köleler
-@ Virrick
-Tiste Edurlar Arasındaki Letherii Köleler
+@ Tomad Sengar
+<b>Tomad Sengar</b><br>Sengar Soyu'nun patriği<br><hr style="border: 7px solid green; width:20%; margin-left:0;"></hr><br><i>Tiste Edurlar</i><br><i>Karakterler</i>
 
-\
-Letheriiler\
-Sarayda
+@ Tomad
+<b>Tomad Sengar</b><br>Sengar Soyu'nun patriği<br><hr style="border: 7px solid green; width:20%; margin-left:0;"></hr><br><i>Tiste Edurlar</i><br><i>Karakterler</i>
+
+@ Uruth
+Sengar Soyu'nun matronu<br><hr style="border: 7px solid green; width:20%; margin-left:0;"></hr><br><i>Tiste Edurlar</i><br><i>Karakterler</i>
+
+@ Korku
+<i>(Fear)</i><br>Sengar, Büyük Oğul, Kabilelerin Silah Ustası<br><hr style="border: 7px solid green; width:20%; margin-left:0;"></hr><br><i>Tiste Edurlar</i><br><i>Karakterler</i>
+
+@ Trull Sengar
+<b>Trull Sengar</b><br>İkinci Oğul<br><hr style="border: 7px solid green; width:20%; margin-left:0;"></hr><br><i>Tiste Edurlar</i><br><i>Karakterler</i>
+
+@ Trull
+<b>Trull Sengar</b><br>İkinci Oğul<br><hr style="border: 7px solid green; width:20%; margin-left:0;"></hr><br><i>Tiste Edurlar</i><br><i>Karakterler</i>
+
+@ Binadas Sengar
+<b>Binadas Sengar</b><br>Üçüncü Oğul<br><hr style="border: 7px solid green; width:20%; margin-left:0;"></hr><br><i>Tiste Edurlar</i><br><i>Karakterler</i>
+
+@ Binadas
+<b>Binadas Sengar</b><br>Üçüncü Oğul<br><hr style="border: 7px solid green; width:20%; margin-left:0;"></hr><br><i>Tiste Edurlar</i><br><i>Karakterler</i>
+
+@ Rhulad Sengar
+<b>Rhulad Sengar</b><br>Dördüncü ve En Küçük Oğul<br><hr style="border: 7px solid green; width:20%; margin-left:0;"></hr><br><i>Tiste Edurlar</i><br><i>Karakterler</i>
+
+@ Rhulad
+<b>Rhulad Sengar</b><br>Dördüncü ve En Küçük Oğul<br><hr style="border: 7px solid green; width:20%; margin-left:0;"></hr><br><i>Tiste Edurlar</i><br><i>Karakterler</i>
+
+@ Mayen
+Korku'nun Sözlüsü<br><hr style="border: 7px solid green; width:20%; margin-left:0;"></hr><br><i>Tiste Edurlar</i><br><i>Karakterler</i>
+
+@ Hannan Mosag
+<b>Hannan Mosag</b><br>Altı Kabile Konfederasyonu'nun Bağcı Kralı<br><hr style="border: 7px solid green; width:20%; margin-left:0;"></hr><br><i>Tiste Edurlar</i><br><i>Karakterler</i>
+
+@ Hannan
+<b>Hannan Mosag</b><br>Altı Kabile Konfederasyonu'nun Bağcı Kralı<br><hr style="border: 7px solid green; width:20%; margin-left:0;"></hr><br><i>Tiste Edurlar</i><br><i>Karakterler</i>
+
+@ Mosag
+<b>Hannan Mosag</b><br>Altı Kabile Konfederasyonu'nun Bağcı Kralı<br><hr style="border: 7px solid green; width:20%; margin-left:0;"></hr><br><i>Tiste Edurlar</i><br><i>Karakterler</i>
+
+@ Theradas Buhn
+<b>Theradas Buhn</b><br>Buhn Soyu'nun Büyük Oğlu<br><hr style="border: 7px solid green; width:20%; margin-left:0;"></hr><br><i>Tiste Edurlar</i><br><i>Karakterler</i>
+
+@ Theradas
+<b>Theradas Buhn</b><br>Buhn Soyu'nun Büyük Oğlu<br><hr style="border: 7px solid green; width:20%; margin-left:0;"></hr><br><i>Tiste Edurlar</i><br><i>Karakterler</i>
+
+@ Midik Buhn
+<b>Midik Buhn</b><br>İkinci Oğul<br><hr style="border: 7px solid green; width:20%; margin-left:0;"></hr><br><i>Tiste Edurlar</i><br><i>Karakterler</i>
+
+@ Midik
+<b>Midik Buhn</b><br>İkinci Oğul<br><hr style="border: 7px solid green; width:20%; margin-left:0;"></hr><br><i>Tiste Edurlar</i><br><i>Karakterler</i>
+
+@ Badar
+bir kan dökmemiş<br><hr style="border: 7px solid green; width:20%; margin-left:0;"></hr><br><i>Tiste Edurlar</i><br><i>Karakterler</i>
+
+@ Rethal
+bir savaşçı<br><hr style="border: 7px solid green; width:20%; margin-left:0;"></hr><br><i>Tiste Edurlar</i><br><i>Karakterler</i>
+
+@ Canarth
+bir savaşçı<br><hr style="border: 7px solid green; width:20%; margin-left:0;"></hr><br><i>Tiste Edurlar</i><br><i>Karakterler</i>
+
+@ Choram Irard
+<b>Choram Irard</b><br>bir kan dökmemiş<br><hr style="border: 7px solid green; width:20%; margin-left:0;"></hr><br><i>Tiste Edurlar</i><br><i>Karakterler</i>
+
+@ Choram
+<b>Choram Irard</b><br>bir kan dökmemiş<br><hr style="border: 7px solid green; width:20%; margin-left:0;"></hr><br><i>Tiste Edurlar</i><br><i>Karakterler</i>
+
+@ Irard
+<b>Choram Irard</b><br>bir kan dökmemiş<br><hr style="border: 7px solid green; width:20%; margin-left:0;"></hr><br><i>Tiste Edurlar</i><br><i>Karakterler</i>
+
+@ Kholb Harat
+<b>Kholb Harat</b><br>bir kan dökmemiş<br><hr style="border: 7px solid green; width:20%; margin-left:0;"></hr><br><i>Tiste Edurlar</i><br><i>Karakterler</i>
+
+@ Kholb
+<b>Kholb Harat</b><br>bir kan dökmemiş<br><hr style="border: 7px solid green; width:20%; margin-left:0;"></hr><br><i>Tiste Edurlar</i><br><i>Karakterler</i>
+
+@ Harat
+<b>Kholb Harat</b><br>bir kan dökmemiş<br><hr style="border: 7px solid green; width:20%; margin-left:0;"></hr><br><i>Tiste Edurlar</i><br><i>Karakterler</i>
+
+@ Matra Brith
+<b>Matra Brith</b><br>bir kan dökmemiş<br><hr style="border: 7px solid green; width:20%; margin-left:0;"></hr><br><i>Tiste Edurlar</i><br><i>Karakterler</i>
+
+@ Matra
+<b>Matra Brith</b><br>bir kan dökmemiş<br><hr style="border: 7px solid green; width:20%; margin-left:0;"></hr><br><i>Tiste Edurlar</i><br><i>Karakterler</i>
+
+@ Brith
+<b>Matra Brith</b><br>bir kan dökmemiş<br><hr style="border: 7px solid green; width:20%; margin-left:0;"></hr><br><i>Tiste Edurlar</i><br><i>Karakterler</i>
+
+@ Ezgara Diskanar
+<b>Ezgara Diskanar</b><br>Letheras Kralı<br><hr style="border: 7px solid green; width:20%; margin-left:0;"></hr><br><i>Sarayda</i><br><i>Letheriiler</i><br><i>Karakterler</i>
 
 @ Ezgara
-: , Ezgara Diskanar
-Letheras Kralı\
-Letheriiler\
-Sarayda
+<b>Ezgara Diskanar</b><br>Letheras Kralı<br><hr style="border: 7px solid green; width:20%; margin-left:0;"></hr><br><i>Sarayda</i><br><i>Letheriiler</i><br><i>Karakterler</i>
+
 @ Janall
-Letheras Kraliçesi\
-Letheriiler\
-Sarayda
+Letheras Kraliçesi<br><hr style="border: 7px solid green; width:20%; margin-left:0;"></hr><br><i>Sarayda</i><br><i>Letheriiler</i><br><i>Karakterler</i>
+
+@ Quillas Diskanar
+<b>Quillas Diskanar</b><br>Prens ve Veliaht<br><hr style="border: 7px solid green; width:20%; margin-left:0;"></hr><br><i>Sarayda</i><br><i>Letheriiler</i><br><i>Karakterler</i>
+
 @ Quillas
-: , Quillas Diskanar
-Prens ve Veliaht\
-Letheriiler\
-Sarayda
+<b>Quillas Diskanar</b><br>Prens ve Veliaht<br><hr style="border: 7px solid green; width:20%; margin-left:0;"></hr><br><i>Sarayda</i><br><i>Letheriiler</i><br><i>Karakterler</i>
+
+@ Unnutal
+<b>Unnutal Hebaz</b><br>Letheras ordusunda Preda (Komutan)<br><hr style="border: 7px solid green; width:20%; margin-left:0;"></hr><br><i>Sarayda</i><br><i>Letheriiler</i><br><i>Karakterler</i>
+
 @ Hebaz
-& Unnutal
-: , Unnutal Hebaz
-Letheras ordusunda Preda (Komutan)\
-Letheriiler\
-Sarayda
+<b>Unnutal Hebaz</b><br>Letheras ordusunda Preda (Komutan)<br><hr style="border: 7px solid green; width:20%; margin-left:0;"></hr><br><i>Sarayda</i><br><i>Letheriiler</i><br><i>Karakterler</i>
+
+@ Unnutal Hebaz
+<b>Unnutal Hebaz</b><br>Letheras ordusunda Preda (Komutan)<br><hr style="border: 7px solid green; width:20%; margin-left:0;"></hr><br><i>Sarayda</i><br><i>Letheriiler</i><br><i>Karakterler</i>
+
+@ Brys Beddict
+<b>Brys Beddict</b><br>Finadd (Yüzbaşı) ve Kralın Şampiyonu, Beddict kardeşlerin en genci<br><hr style="border: 7px solid green; width:20%; margin-left:0;"></hr><br><i>Sarayda</i><br><i>Letheriiler</i><br><i>Karakterler</i>
+
 @ Brys
-& Brys Beddict
-: , Brys Beddict
-Finadd (Yüzbaşı) ve Kralın Şampiyonu, Beddict kardeşlerin en genci\
-Letheriiler\
-Sarayda
+<b>Brys Beddict</b><br>Finadd (Yüzbaşı) ve Kralın Şampiyonu, Beddict kardeşlerin en genci<br><hr style="border: 7px solid green; width:20%; margin-left:0;"></hr><br><i>Sarayda</i><br><i>Letheriiler</i><br><i>Karakterler</i>
+
 @ Moroch
-& Nevath
-: , Moroch Nevath
-Prens Quillas Diskanar'ın bir Finadd olan muhafızı\
-Letheriiler\
-Sarayda
+<b>Moroch Nevath</b><br>Prens Quillas Diskanar'ın bir Finadd olan muhafızı<br><hr style="border: 7px solid green; width:20%; margin-left:0;"></hr><br><i>Sarayda</i><br><i>Letheriiler</i><br><i>Karakterler</i>
+
+@ Nevath
+<b>Moroch Nevath</b><br>Prens Quillas Diskanar'ın bir Finadd olan muhafızı<br><hr style="border: 7px solid green; width:20%; margin-left:0;"></hr><br><i>Sarayda</i><br><i>Letheriiler</i><br><i>Karakterler</i>
+
+@ Moroch Nevath
+<b>Moroch Nevath</b><br>Prens Quillas Diskanar'ın bir Finadd olan muhafızı<br><hr style="border: 7px solid green; width:20%; margin-left:0;"></hr><br><i>Sarayda</i><br><i>Letheriiler</i><br><i>Karakterler</i>
+
+@ Kuru
+<b>Kuru Qan</b><br>Kralın Ceda'sı (Efsuncusu)<br><hr style="border: 7px solid green; width:20%; margin-left:0;"></hr><br><i>Sarayda</i><br><i>Letheriiler</i><br><i>Karakterler</i>
+
 @ Qan
-& Kuru
-: , Kuru Qan
-Kralın Ceda'sı (Efsuncusu)\
-Letheriiler\
-Sarayda
+<b>Kuru Qan</b><br>Kralın Ceda'sı (Efsuncusu)<br><hr style="border: 7px solid green; width:20%; margin-left:0;"></hr><br><i>Sarayda</i><br><i>Letheriiler</i><br><i>Karakterler</i>
+
+@ Kuru Qan
+<b>Kuru Qan</b><br>Kralın Ceda'sı (Efsuncusu)<br><hr style="border: 7px solid green; width:20%; margin-left:0;"></hr><br><i>Sarayda</i><br><i>Letheriiler</i><br><i>Karakterler</i>
+
 @ Nisall
-Kralın İlk Cariyesi\
-Letheriiler\
-Sarayda
+Kralın İlk Cariyesi<br><hr style="border: 7px solid green; width:20%; margin-left:0;"></hr><br><i>Sarayda</i><br><i>Letheriiler</i><br><i>Karakterler</i>
+
+@ Turudal Brizad
+<b>Turudal Brizad</b><br>Kraliçenin İlk Metresi<br><hr style="border: 7px solid green; width:20%; margin-left:0;"></hr><br><i>Sarayda</i><br><i>Letheriiler</i><br><i>Karakterler</i>
+
 @ Turudal
-& Brizad
-: , Turudal Brizad
-Kraliçenin İlk Metresi\
-Letheriiler\
-Sarayda
+<b>Turudal Brizad</b><br>Kraliçenin İlk Metresi<br><hr style="border: 7px solid green; width:20%; margin-left:0;"></hr><br><i>Sarayda</i><br><i>Letheriiler</i><br><i>Karakterler</i>
+
+@ Brizad
+<b>Turudal Brizad</b><br>Kraliçenin İlk Metresi<br><hr style="border: 7px solid green; width:20%; margin-left:0;"></hr><br><i>Sarayda</i><br><i>Letheriiler</i><br><i>Karakterler</i>
+
 @ Nifadas
-İlk Hadımağası\
-Letheriiler\
-Sarayda
+İlk Hadımağası<br><hr style="border: 7px solid green; width:20%; margin-left:0;"></hr><br><i>Sarayda</i><br><i>Letheriiler</i><br><i>Karakterler</i>
+
+@ Gerun Eberict
+<b>Gerun Eberict</b><br>Kraliyet Muhafızlarında Finadd<br><hr style="border: 7px solid green; width:20%; margin-left:0;"></hr><br><i>Sarayda</i><br><i>Letheriiler</i><br><i>Karakterler</i>
+
 @ Gerun
-& Eberict
-: , Gerun Eberict
-Kraliyet Muhafızlarında Finadd\
-Letheriiler\
-Sarayda
+<b>Gerun Eberict</b><br>Kraliyet Muhafızlarında Finadd<br><hr style="border: 7px solid green; width:20%; margin-left:0;"></hr><br><i>Sarayda</i><br><i>Letheriiler</i><br><i>Karakterler</i>
+
+@ Eberict
+<b>Gerun Eberict</b><br>Kraliyet Muhafızlarında Finadd<br><hr style="border: 7px solid green; width:20%; margin-left:0;"></hr><br><i>Sarayda</i><br><i>Letheriiler</i><br><i>Karakterler</i>
+
+@ Triban Gnol
+<b>Triban Gnol</b><br>Şansölye<br><hr style="border: 7px solid green; width:20%; margin-left:0;"></hr><br><i>Sarayda</i><br><i>Letheriiler</i><br><i>Karakterler</i>
+
 @ Triban
-& Gnol
-: , Triban Gnol
-Şansölye\
-Letheriiler\
-Sarayda
+<b>Triban Gnol</b><br>Şansölye<br><hr style="border: 7px solid green; width:20%; margin-left:0;"></hr><br><i>Sarayda</i><br><i>Letheriiler</i><br><i>Karakterler</i>
+
+@ Gnol
+<b>Triban Gnol</b><br>Şansölye<br><hr style="border: 7px solid green; width:20%; margin-left:0;"></hr><br><i>Sarayda</i><br><i>Letheriiler</i><br><i>Karakterler</i>
+
 @ Laerdas
-Prens'in maiyetindeki bir büyücü\
-Letheriiler\
-Sarayda
+Prens'in maiyetindeki bir büyücü<br><hr style="border: 7px solid green; width:20%; margin-left:0;"></hr><br><i>Sarayda</i><br><i>Letheriiler</i><br><i>Karakterler</i>
+
+@ Sarı Buruk
+<b>Sarı Buruk</b><br>kuzeydeki bir tüccar<br><hr style="border: 7px solid green; width:20%; margin-left:0;"></hr><br><i>Kuzeyde</i><br><i>Letheriiler</i><br><i>Karakterler</i>
+
 @ Buruk
-: , Sarı Buruk
-kuzeydeki bir tüccar\
-Letheriiler\
-Kuzeyde
+<b>Sarı Buruk</b><br>kuzeydeki bir tüccar<br><hr style="border: 7px solid green; width:20%; margin-left:0;"></hr><br><i>Kuzeyde</i><br><i>Letheriiler</i><br><i>Karakterler</i>
+
+@ Seren Pedac
+<b>Seren Pedac</b><br>Sarı Buruk'un İbracısı<br><hr style="border: 7px solid green; width:20%; margin-left:0;"></hr><br><i>Kuzeyde</i><br><i>Letheriiler</i><br><i>Karakterler</i>
+
 @ Seren
-& Pedac
-: , Seren Pedac
-Sarı Buruk'un İbracısı\
-Letheriiler\
-Kuzeyde
+<b>Seren Pedac</b><br>Sarı Buruk'un İbracısı<br><hr style="border: 7px solid green; width:20%; margin-left:0;"></hr><br><i>Kuzeyde</i><br><i>Letheriiler</i><br><i>Karakterler</i>
+
+@ Pedac
+<b>Seren Pedac</b><br>Sarı Buruk'un İbracısı<br><hr style="border: 7px solid green; width:20%; margin-left:0;"></hr><br><i>Kuzeyde</i><br><i>Letheriiler</i><br><i>Karakterler</i>
+
+@ Hull Beddict
+<b>Hull Beddict</b><br>Kuzeydeki Gözetmen, Beddict kardeşlerin en büyüğü<br><hr style="border: 7px solid green; width:20%; margin-left:0;"></hr><br><i>Kuzeyde</i><br><i>Letheriiler</i><br><i>Karakterler</i>
+
 @ Hull
-& Hull Beddict
-: , Hull Beddict
-Kuzeydeki Gözetmen, Beddict kardeşlerin en büyüğü\
-Letheriiler\
-Kuzeyde
+<b>Hull Beddict</b><br>Kuzeydeki Gözetmen, Beddict kardeşlerin en büyüğü<br><hr style="border: 7px solid green; width:20%; margin-left:0;"></hr><br><i>Kuzeyde</i><br><i>Letheriiler</i><br><i>Karakterler</i>
+
+@ Nekal Bara
+<b>Nekal Bara</b><br>bir efsuncu<br><hr style="border: 7px solid green; width:20%; margin-left:0;"></hr><br><i>Kuzeyde</i><br><i>Letheriiler</i><br><i>Karakterler</i>
+
 @ Nekal
-& Bara
-: , Nekal Bara
-bir efsuncu\
-Letheriiler\
-Kuzeyde
+<b>Nekal Bara</b><br>bir efsuncu<br><hr style="border: 7px solid green; width:20%; margin-left:0;"></hr><br><i>Kuzeyde</i><br><i>Letheriiler</i><br><i>Karakterler</i>
+
+@ Bara
+<b>Nekal Bara</b><br>bir efsuncu<br><hr style="border: 7px solid green; width:20%; margin-left:0;"></hr><br><i>Kuzeyde</i><br><i>Letheriiler</i><br><i>Karakterler</i>
+
 @ Arahathan
-bir büyücü\
-Letheriiler\
-Kuzeyde
+bir büyücü<br><hr style="border: 7px solid green; width:20%; margin-left:0;"></hr><br><i>Kuzeyde</i><br><i>Letheriiler</i><br><i>Karakterler</i>
+
 @ Enedictal
-bir büyücü\
-Letheriiler\
-Kuzeyde
+bir büyücü<br><hr style="border: 7px solid green; width:20%; margin-left:0;"></hr><br><i>Kuzeyde</i><br><i>Letheriiler</i><br><i>Karakterler</i>
+
+@ Yan Tovis
+<b>Yan Tovis</b><br><i>(Tan)</i><br>Fent Menzili'ndeki Atri—Preda<br><hr style="border: 7px solid green; width:20%; margin-left:0;"></hr><br><i>Kuzeyde</i><br><i>Letheriiler</i><br><i>Karakterler</i>
+
 @ Yan
-& Tovis
-& Tan
-: , Yan Tovis (Tan)
-Fent Menzili'ndeki Atri—Preda\
-Letheriiler\
-Kuzeyde
+<b>Yan Tovis</b><br><i>(Tan)</i><br>Fent Menzili'ndeki Atri—Preda<br><hr style="border: 7px solid green; width:20%; margin-left:0;"></hr><br><i>Kuzeyde</i><br><i>Letheriiler</i><br><i>Karakterler</i>
+
+@ Tovis
+<b>Yan Tovis</b><br><i>(Tan)</i><br>Fent Menzili'ndeki Atri—Preda<br><hr style="border: 7px solid green; width:20%; margin-left:0;"></hr><br><i>Kuzeyde</i><br><i>Letheriiler</i><br><i>Karakterler</i>
+
+@ Tehol Beddict
+<b>Tehol Beddict</b><br>başkentteki bir vatandaş, Beddict kardeşlerin ortancası<br><hr style="border: 7px solid green; width:20%; margin-left:0;"></hr><br><i>Letheras Şehrinde</i><br><i>Letheriiler</i><br><i>Karakterler</i>
+
 @ Tehol
-& Tehol Beddict
-: , Tehol Beddict
-başkentteki bir vatandaş, Beddict kardeşlerin ortancası\
-Letheriiler\
-Letheras Şehrinde
+<b>Tehol Beddict</b><br>başkentteki bir vatandaş, Beddict kardeşlerin ortancası<br><hr style="border: 7px solid green; width:20%; margin-left:0;"></hr><br><i>Letheras Şehrinde</i><br><i>Letheriiler</i><br><i>Karakterler</i>
+
 @ Hejun
-Tehol'un bir çalışanı\
-Letheriiler\
-Letheras Şehrinde
+Tehol'un bir çalışanı<br><hr style="border: 7px solid green; width:20%; margin-left:0;"></hr><br><i>Letheras Şehrinde</i><br><i>Letheriiler</i><br><i>Karakterler</i>
+
 @ Rissarh
-Tehol'un bir çalışanı\
-Letheriiler\
-Letheras Şehrinde
+Tehol'un bir çalışanı<br><hr style="border: 7px solid green; width:20%; margin-left:0;"></hr><br><i>Letheras Şehrinde</i><br><i>Letheriiler</i><br><i>Karakterler</i>
+
 @ Shand
-Tehol'un bir çalışanı\
-Letheriiler\
-Letheras Şehrinde
+Tehol'un bir çalışanı<br><hr style="border: 7px solid green; width:20%; margin-left:0;"></hr><br><i>Letheras Şehrinde</i><br><i>Letheriiler</i><br><i>Karakterler</i>
+
 @ Chalas
-bir bekçi\
-Letheriiler\
-Letheras Şehrinde
+bir bekçi<br><hr style="border: 7px solid green; width:20%; margin-left:0;"></hr><br><i>Letheras Şehrinde</i><br><i>Letheriiler</i><br><i>Karakterler</i>
+
 @ Biri
-bir tüccar\
-Letheriiler\
-Letheras Şehrinde
+bir tüccar<br><hr style="border: 7px solid green; width:20%; margin-left:0;"></hr><br><i>Letheras Şehrinde</i><br><i>Letheriiler</i><br><i>Karakterler</i>
+
 @ Huldo
-bir müessese sahibi\
-Letheriiler\
-Letheras Şehrinde
+bir müessese sahibi<br><hr style="border: 7px solid green; width:20%; margin-left:0;"></hr><br><i>Letheras Şehrinde</i><br><i>Letheriiler</i><br><i>Karakterler</i>
+
 @ Bugg
-Tehol'un kethüdası\
-Letheriiler\
-Letheras Şehrinde
+Tehol'un kethüdası<br><hr style="border: 7px solid green; width:20%; margin-left:0;"></hr><br><i>Letheras Şehrinde</i><br><i>Letheriiler</i><br><i>Karakterler</i>
+
+@ Ublala Pung
+<b>Ublala Pung</b><br>bir suçlu<br><hr style="border: 7px solid green; width:20%; margin-left:0;"></hr><br><i>Letheras Şehrinde</i><br><i>Letheriiler</i><br><i>Karakterler</i>
+
 @ Ublala
-& Pung
-: , Ublala Pung
-bir suçlu\
-Letheriiler\
-Letheras Şehrinde
+<b>Ublala Pung</b><br>bir suçlu<br><hr style="border: 7px solid green; width:20%; margin-left:0;"></hr><br><i>Letheras Şehrinde</i><br><i>Letheriiler</i><br><i>Karakterler</i>
+
+@ Pung
+<b>Ublala Pung</b><br>bir suçlu<br><hr style="border: 7px solid green; width:20%; margin-left:0;"></hr><br><i>Letheras Şehrinde</i><br><i>Letheriiler</i><br><i>Karakterler</i>
+
 @ Harlest
-bir aile muhafızı\
-Letheriiler\
-Letheras Şehrinde
+bir aile muhafızı<br><hr style="border: 7px solid green; width:20%; margin-left:0;"></hr><br><i>Letheras Şehrinde</i><br><i>Letheriiler</i><br><i>Karakterler</i>
+
 @ Ormly
-Şampiyon Sıçan Yakalayıcısı\
-Letheriiler\
-Letheras Şehrinde
+Şampiyon Sıçan Yakalayıcısı<br><hr style="border: 7px solid green; width:20%; margin-left:0;"></hr><br><i>Letheras Şehrinde</i><br><i>Letheriiler</i><br><i>Karakterler</i>
+
 @ Rucket
-Baş Teftişçi
-Sıçan Yakalayıcılar Loncası\
-Letheriiler\
-Letheras Şehrinde
+Baş Teftişçi, Sıçan Yakalayıcılar Loncası<br><hr style="border: 7px solid green; width:20%; margin-left:0;"></hr><br><i>Letheras Şehrinde</i><br><i>Letheriiler</i><br><i>Karakterler</i>
+
 @ Bubyrd
-Sıçan Yakalayıcılar Loncası\
-Letheriiler\
-Letheras Şehrinde
-@ Parılda
-: , (Glisten)
-Sıçan Yakalayıcılar Loncası\
-Letheriiler\
-Letheras Şehrinde
+Sıçan Yakalayıcılar Loncası<br><hr style="border: 7px solid green; width:20%; margin-left:0;"></hr><br><i>Letheras Şehrinde</i><br><i>Letheriiler</i><br><i>Karakterler</i>
+
+@ Parıldak
+<i>(Glisten)</i><br>Sıçan Yakalayıcılar Loncası<br><hr style="border: 7px solid green; width:20%; margin-left:0;"></hr><br><i>Letheras Şehrinde</i><br><i>Letheriiler</i><br><i>Karakterler</i>
+
 @ Yakut
-: , (Ruby)
-Sıçan Yakalayıcılar Loncası\
-Letheriiler\
-Letheras Şehrinde
+<i>(Ruby)</i><br>Sıçan Yakalayıcılar Loncası<br><hr style="border: 7px solid green; width:20%; margin-left:0;"></hr><br><i>Letheras Şehrinde</i><br><i>Letheriiler</i><br><i>Karakterler</i>
+
 @ Akik
-: , (Onyx)
-Sıçan Yakalayıcılar Loncası\
-Letheriiler\
-Letheras Şehrinde
+<i>(Onyx)</i><br>Sıçan Yakalayıcılar Loncası<br><hr style="border: 7px solid green; width:20%; margin-left:0;"></hr><br><i>Letheras Şehrinde</i><br><i>Letheriiler</i><br><i>Karakterler</i>
+
 @ Scint
-Sıçan Yakalayıcılar Loncası\
-Letheriiler\
-Letheras Şehrinde
+Sıçan Yakalayıcılar Loncası<br><hr style="border: 7px solid green; width:20%; margin-left:0;"></hr><br><i>Letheras Şehrinde</i><br><i>Letheriiler</i><br><i>Karakterler</i>
+
 @ İbrik
-: , (Kettle)
-bir çocuk\
-Letheriiler\
-Letheras Şehrinde
+<i>(Kettle)</i><br>bir çocuk<br><hr style="border: 7px solid green; width:20%; margin-left:0;"></hr><br><i>Letheras Şehrinde</i><br><i>Letheriiler</i><br><i>Karakterler</i>
+
+@ Shurq Elalle
+<b>Shurq Elalle</b><br>bir hırsız<br><hr style="border: 7px solid green; width:20%; margin-left:0;"></hr><br><i>Letheras Şehrinde</i><br><i>Letheriiler</i><br><i>Karakterler</i>
+
 @ Shurq
-& Elalle
-: , Shurq Elalle
-bir hırsız\
-Letheriiler\
-Letheras Şehrinde
+<b>Shurq Elalle</b><br>bir hırsız<br><hr style="border: 7px solid green; width:20%; margin-left:0;"></hr><br><i>Letheras Şehrinde</i><br><i>Letheriiler</i><br><i>Karakterler</i>
+
 @ Selush
-bir Ölü Giydiricisi\
-Letheriiler\
-Letheras Şehrinde
+bir Ölü Giydiricisi<br><hr style="border: 7px solid green; width:20%; margin-left:0;"></hr><br><i>Letheras Şehrinde</i><br><i>Letheriiler</i><br><i>Karakterler</i>
+
 @ Padderunt
-Selush'un asistanı\
-Letheriiler\
-Letheras Şehrinde
+Selush'un asistanı<br><hr style="border: 7px solid green; width:20%; margin-left:0;"></hr><br><i>Letheras Şehrinde</i><br><i>Letheriiler</i><br><i>Karakterler</i>
+
 @ Urul
-Huldo'nun mekânında baş garson\
-Letheriiler\
-Letheras Şehrinde
+Huldo'nun mekânında baş garson<br><hr style="border: 7px solid green; width:20%; margin-left:0;"></hr><br><i>Letheras Şehrinde</i><br><i>Letheriiler</i><br><i>Karakterler</i>
+
 @ Inchers
-bir vatandaş\
-Letheriiler\
-Letheras Şehrinde
+bir vatandaş<br><hr style="border: 7px solid green; width:20%; margin-left:0;"></hr><br><i>Letheras Şehrinde</i><br><i>Letheriiler</i><br><i>Karakterler</i>
+
 @ Hulbat
-bir vatandaş\
-Letheriiler\
-Letheras Şehrinde
+bir vatandaş<br><hr style="border: 7px solid green; width:20%; margin-left:0;"></hr><br><i>Letheras Şehrinde</i><br><i>Letheriiler</i><br><i>Karakterler</i>
+
 @ Turble
-bir vatandaş\
-Letheriiler\
-Letheras Şehrinde
+bir vatandaş<br><hr style="border: 7px solid green; width:20%; margin-left:0;"></hr><br><i>Letheras Şehrinde</i><br><i>Letheriiler</i><br><i>Karakterler</i>
+
 @ Unn
-melez bir muhtaç\
-Letheriiler\
-Letheras Şehrinde
+melez bir muhtaç<br><hr style="border: 7px solid green; width:20%; margin-left:0;"></hr><br><i>Letheras Şehrinde</i><br><i>Letheriiler</i><br><i>Karakterler</i>
+
 @ Delisp
-Tapınak Genelev Matronu\
-Letheriiler\
-Letheras Şehrinde
+Tapınak Genelev Matronu<br><hr style="border: 7px solid green; width:20%; margin-left:0;"></hr><br><i>Letheras Şehrinde</i><br><i>Letheriiler</i><br><i>Karakterler</i>
+
 @ Prist
-bir bahçıvan\
-Letheriiler\
-Letheras Şehrinde
+bir bahçıvan<br><hr style="border: 7px solid green; width:20%; margin-left:0;"></hr><br><i>Letheras Şehrinde</i><br><i>Letheriiler</i><br><i>Karakterler</i>
+
+@ Güçlü Rall
+<b>Güçlü Rall</b><br><i>(Strong Rall)</i><br>bir kiralık katil<br><hr style="border: 7px solid green; width:20%; margin-left:0;"></hr><br><i>Letheras Şehrinde</i><br><i>Letheriiler</i><br><i>Karakterler</i>
+
 @ Rall
-: , Güçlü Rall (Strong Rall)
-bir kiralık katil\
-Letheriiler\
-Letheras Şehrinde
+<b>Güçlü Rall</b><br><i>(Strong Rall)</i><br>bir kiralık katil<br><hr style="border: 7px solid green; width:20%; margin-left:0;"></hr><br><i>Letheras Şehrinde</i><br><i>Letheriiler</i><br><i>Karakterler</i>
+
 @ Yeşil Domuz
-& Domuz
-& Yeşil
-: , (Green Pig)
-eski zamanların kötü şöhretli bir büyücüsü\
-Letheriiler\
-Letheras Şehrinde
+<b>Yeşil Domuz</b><br><i>(Green Pig)</i><br>eski zamanların kötü şöhretli bir büyücüsü<br><hr style="border: 7px solid green; width:20%; margin-left:0;"></hr><br><i>Letheras Şehrinde</i><br><i>Letheriiler</i><br><i>Karakterler</i>
+
+@ Domuz
+<b>Yeşil Domuz</b><br><i>(Green Pig)</i><br>eski zamanların kötü şöhretli bir büyücüsü<br><hr style="border: 7px solid green; width:20%; margin-left:0;"></hr><br><i>Letheras Şehrinde</i><br><i>Letheriiler</i><br><i>Karakterler</i>
+
 @ Withal
-bir Meckros silahçı\
-Ötekiler
+bir Meckros silahçı<br><hr style="border: 7px solid green; width:20%; margin-left:0;"></hr><br><i>Ötekiler</i><br><i>Letheriiler</i><br><i>Karakterler</i>
+
 @ Rind
-bir Nacht\
-Ötekiler
+bir Nacht<br><hr style="border: 7px solid green; width:20%; margin-left:0;"></hr><br><i>Ötekiler</i><br><i>Letheriiler</i><br><i>Karakterler</i>
+
 @ Mape
-bir Nacht\
-Ötekiler
+bir Nacht<br><hr style="border: 7px solid green; width:20%; margin-left:0;"></hr><br><i>Ötekiler</i><br><i>Letheriiler</i><br><i>Karakterler</i>
+
 @ Pule
-bir Nacht\
-Ötekiler
+bir Nacht<br><hr style="border: 7px solid green; width:20%; margin-left:0;"></hr><br><i>Ötekiler</i><br><i>Letheriiler</i><br><i>Karakterler</i>
+
+@ Silchas Harap
+<b>Silchas Harap</b><br><i>(Ruin)</i><br>bir Tiste Andii Eleint Tektutan<br><hr style="border: 7px solid green; width:20%; margin-left:0;"></hr><br><i>Ötekiler</i><br><i>Letheriiler</i><br><i>Karakterler</i>
+
 @ Silchas
-& Harap
-: , Silchas Harap (Ruin)
-bir Tiste Andii Eleint Tektutan\
-Ötekiler
+<b>Silchas Harap</b><br><i>(Ruin)</i><br>bir Tiste Andii Eleint Tektutan<br><hr style="border: 7px solid green; width:20%; margin-left:0;"></hr><br><i>Ötekiler</i><br><i>Letheriiler</i><br><i>Karakterler</i>
+
+@ Harap
+<b>Silchas Harap</b><br><i>(Ruin)</i><br>bir Tiste Andii Eleint Tektutan<br><hr style="border: 7px solid green; width:20%; margin-left:0;"></hr><br><i>Ötekiler</i><br><i>Letheriiler</i><br><i>Karakterler</i>
+
+@ Scabandari Kanlıgöz
+<b>Scabandari Kanlıgöz</b><br><i>(Bloodeye)</i><br>bir Tiste Edur Eleint Tektutan<br><hr style="border: 7px solid green; width:20%; margin-left:0;"></hr><br><i>Ötekiler</i><br><i>Letheriiler</i><br><i>Karakterler</i>
+
 @ Scabandari
-& Kanlıgöz
-: , Scabandari Kanlıgöz (Bloodeye)
-bir Tiste Edur Eleint Tektutan\
-Ötekiler
+<b>Scabandari Kanlıgöz</b><br><i>(Bloodeye)</i><br>bir Tiste Edur Eleint Tektutan<br><hr style="border: 7px solid green; width:20%; margin-left:0;"></hr><br><i>Ötekiler</i><br><i>Letheriiler</i><br><i>Karakterler</i>
+
+@ Kanlıgöz
+<b>Scabandari Kanlıgöz</b><br><i>(Bloodeye)</i><br>bir Tiste Edur Eleint Tektutan<br><hr style="border: 7px solid green; width:20%; margin-left:0;"></hr><br><i>Ötekiler</i><br><i>Letheriiler</i><br><i>Karakterler</i>
+
 @ Gothos
-bir Jaghut\
-Ötekiler
+bir Jaghut<br><hr style="border: 7px solid green; width:20%; margin-left:0;"></hr><br><i>Ötekiler</i><br><i>Letheriiler</i><br><i>Karakterler</i>
+
+@ Rud Elalle
+<b>Rud Elalle</b><br>bir çocuk<br><hr style="border: 7px solid green; width:20%; margin-left:0;"></hr><br><i>Ötekiler</i><br><i>Letheriiler</i><br><i>Karakterler</i>
+
 @ Rud
-: , Rud Elalle
-bir çocuk\
-Ötekiler
-@ Parmaklık
-: , Demir Parmaklık (Iron Bars)
-bir asker\
-Ötekiler
+<b>Rud Elalle</b><br>bir çocuk<br><hr style="border: 7px solid green; width:20%; margin-left:0;"></hr><br><i>Ötekiler</i><br><i>Letheriiler</i><br><i>Karakterler</i>
+
+@ Demir Parmaklık
+<i>(Iron Bars)</i><br>bir asker<br><hr style="border: 7px solid green; width:20%; margin-left:0;"></hr><br><i>Ötekiler</i><br><i>Letheriiler</i><br><i>Karakterler</i>
+
 @ Corlo
-bir büyücü\
-Ötekiler
+bir büyücü<br><hr style="border: 7px solid green; width:20%; margin-left:0;"></hr><br><i>Ötekiler</i><br><i>Letheriiler</i><br><i>Karakterler</i>
+
 @ Yarımgaga
-: , (Halfpeck)
-bir asker\
-Ötekiler
+<i>(Halfpeck)</i><br>bir asker<br><hr style="border: 7px solid green; width:20%; margin-left:0;"></hr><br><i>Ötekiler</i><br><i>Letheriiler</i><br><i>Karakterler</i>
+
+@ Ulshun Pral
+<b>Ulshun Pral</b><br>bir Imass<br><hr style="border: 7px solid green; width:20%; margin-left:0;"></hr><br><i>Ötekiler</i><br><i>Letheriiler</i><br><i>Karakterler</i>
+
 @ Ulshun
-& Pral
-: , Ulshun Pral
-bir Imass\
-Ötekiler
+<b>Ulshun Pral</b><br>bir Imass<br><hr style="border: 7px solid green; width:20%; margin-left:0;"></hr><br><i>Ötekiler</i><br><i>Letheriiler</i><br><i>Karakterler</i>
+
+@ Pral
+<b>Ulshun Pral</b><br>bir Imass<br><hr style="border: 7px solid green; width:20%; margin-left:0;"></hr><br><i>Ötekiler</i><br><i>Letheriiler</i><br><i>Karakterler</i>
+
 @ Atri—Preda
-bir şehri veya kasabayı yöneten askeri komutan\
-Letherii Unvanları
+bir şehri veya kasabayı yöneten askeri komutan<br><hr style="border: 7px solid green; width:20%; margin-left:0;"></hr><br><i>Letherii Unvanları</i><br><i>Sözlük</i>
+
 @ Ceda
-Kralın büyücüsünün unvanı\
-Letherii Unvanları
+Kralın büyücüsünün unvanı<br><hr style="border: 7px solid green; width:20%; margin-left:0;"></hr><br><i>Letherii Unvanları</i><br><i>Sözlük</i>
+
 @ Finadd
-orduda yüzbaşı dengi\
-Letherii Unvanları
+orduda yüzbaşı dengi<br><hr style="border: 7px solid green; width:20%; margin-left:0;"></hr><br><i>Letherii Unvanları</i><br><i>Sözlük</i>
+
 @ Gözetmen
-Letherii dışı halklarla ilk teması kuran Kralın Sesi\
-Letherii Unvanları
+Letherii dışı halklarla ilk teması kuran Kralın Sesi<br><hr style="border: 7px solid green; width:20%; margin-left:0;"></hr><br><i>Letherii Unvanları</i><br><i>Sözlük</i>
+
 @ İbracı
-Letherii dışı halklarla muhatap olurken rehber/aracı görevi yürüten resmi bir mevki\
-Letherii Unvanları
+Letherii dışı halklarla muhatap olurken rehber/aracı görevi yürüten resmi bir mevki<br><hr style="border: 7px solid green; width:20%; margin-left:0;"></hr><br><i>Letherii Unvanları</i><br><i>Sözlük</i>
+
 @ Kralın Müsaadesi
-taşıyanı her türlü adli hükümden muaf tutan bir unvan\
-Letherii Unvanları
+taşıyanı her türlü adli hükümden muaf tutan bir unvan<br><hr style="border: 7px solid green; width:20%; margin-left:0;"></hr><br><i>Letherii Unvanları</i><br><i>Sözlük</i>
+
 @ Preda
-orduda kumandan veya general dengi\
-Letherii Unvanları
+orduda kumandan veya general dengi<br><hr style="border: 7px solid green; width:20%; margin-left:0;"></hr><br><i>Letherii Unvanları</i><br><i>Sözlük</i>
+
+@ Aşağı Çarşı
+Letheras'ta bir semt<br><hr style="border: 7px solid green; width:20%; margin-left:0;"></hr><br><i>Lether'de Yer Adları</i><br><i>Sözlük</i>
+
+@ Avare'nin Topuğu
+Letheras'ta bir ara sokak<br><hr style="border: 7px solid green; width:20%; margin-left:0;"></hr><br><i>Lether'de Yer Adları</i><br><i>Sözlük</i>
+
+@ Burl Meydanı
+Letheras'ta bir meydan<br><hr style="border: 7px solid green; width:20%; margin-left:0;"></hr><br><i>Lether'de Yer Adları</i><br><i>Sözlük</i>
+
+@ Cedance
+baskın Karo seti (bakınız İnler)<br><hr style="border: 7px solid green; width:20%; margin-left:0;"></hr><br><i>Lether'de Yer Adları</i><br><i>Sözlük</i>
+
+@ Cul Sokağı
+Letheras'ta bir sokak<br><hr style="border: 7px solid green; width:20%; margin-left:0;"></hr><br><i>Lether'de Yer Adları</i><br><i>Sözlük</i>
+
+@ Ebedi İkametgâh
+Letheras'ta inşaat hâlindeki yeni saray<br><hr style="border: 7px solid green; width:20%; margin-left:0;"></hr><br><i>Lether'de Yer Adları</i><br><i>Sözlük</i>
+
+@ Huldo'nun Mekânı
+Letheras'ta bir lokanta<br><hr style="border: 7px solid green; width:20%; margin-left:0;"></hr><br><i>Lether'de Yer Adları</i><br><i>Sözlük</i>
+
+@ Katter Koyu
+Eski Katter'ın dışındaki bir sahil<br><hr style="border: 7px solid green; width:20%; margin-left:0;"></hr><br><i>Lether'de Yer Adları</i><br><i>Sözlük</i>
+
+@ Kızıl Kulvar
+Letheras'ta bir cadde<br><hr style="border: 7px solid green; width:20%; margin-left:0;"></hr><br><i>Lether'de Yer Adları</i><br><i>Sözlük</i>
+
+@ Kokuşmuş Ev
+Ölü Giydirici Selush'un konutu<br><hr style="border: 7px solid green; width:20%; margin-left:0;"></hr><br><i>Lether'de Yer Adları</i><br><i>Sözlük</i>
+
+@ Kraig'in Çıkarması
+Trate şehrinde nehrin yukarısı<br><hr style="border: 7px solid green; width:20%; margin-left:0;"></hr><br><i>Lether'de Yer Adları</i><br><i>Sözlük</i>
+
+@ Lether
+krallık ve onun sömürgeleri<br><hr style="border: 7px solid green; width:20%; margin-left:0;"></hr><br><i>Lether'de Yer Adları</i><br><i>Sözlük</i>
+
+@ Letheras
+Lether'in başkenti<br><hr style="border: 7px solid green; width:20%; margin-left:0;"></hr><br><i>Lether'de Yer Adları</i><br><i>Sözlük</i>
+
+@ Pullu Ev
+Letheras'ta Sıçan Yakalayıcılar Loncası'nın karargâhı<br><hr style="border: 7px solid green; width:20%; margin-left:0;"></hr><br><i>Lether'de Yer Adları</i><br><i>Sözlük</i>
+
+@ Quillas Kanalı
+Letheras'taki ana kanallardan biri<br><hr style="border: 7px solid green; width:20%; margin-left:0;"></hr><br><i>Lether'de Yer Adları</i><br><i>Sözlük</i>
+
+@ Rild'in Mekânı
+Letheras'ta bir lokanta<br><hr style="border: 7px solid green; width:20%; margin-left:0;"></hr><br><i>Lether'de Yer Adları</i><br><i>Sözlük</i>
+
+@ Sherp'in Son Kulvarı
+Letheras'ta bir kulvar<br><hr style="border: 7px solid green; width:20%; margin-left:0;"></hr><br><i>Lether'de Yer Adları</i><br><i>Sözlük</i>
+
+@ Sıçan Yakalayıcılar Loncası
+Lether genelinde faaliyet gösteren gizemli bir lonca <br><hr style="border: 7px solid green; width:20%; margin-left:0;"></hr><br><i>Lether'de Yer Adları</i><br><i>Sözlük</i>
+
+@ Soulan Köprüsü
+Letheras'ta bir köprü<br><hr style="border: 7px solid green; width:20%; margin-left:0;"></hr><br><i>Lether'de Yer Adları</i><br><i>Sözlük</i>
+
+@ Tapınak Mektebi
+Letheras'ta bir eğitim enstitüsü<br><hr style="border: 7px solid green; width:20%; margin-left:0;"></hr><br><i>Lether'de Yer Adları</i><br><i>Sözlük</i>
+
+@ Tapınak
+Letheras'ta lüks bir genelev<br><hr style="border: 7px solid green; width:20%; margin-left:0;"></hr><br><i>Lether'de Yer Adları</i><br><i>Sözlük</i>
+
+@ Tarancede Kulesi
+Trate Limanı'na tepeden bakan bir gözetleme kulesi<br><hr style="border: 7px solid green; width:20%; margin-left:0;"></hr><br><i>Lether'de Yer Adları</i><br><i>Sözlük</i>
+
+@ Teşrifatçılar Semti
+Letheras'ta bir semt<br><hr style="border: 7px solid green; width:20%; margin-left:0;"></hr><br><i>Lether'de Yer Adları</i><br><i>Sözlük</i>
+
+@ Tüccarlar Gişesi
+Lether'de bir borsanın dengi<br><hr style="border: 7px solid green; width:20%; margin-left:0;"></hr><br><i>Lether'de Yer Adları</i><br><i>Sözlük</i>
+
+@ Urum'un Mukrizleri
+Letheras'ta bir müessese<br><hr style="border: 7px solid green; width:20%; margin-left:0;"></hr><br><i>Lether'de Yer Adları</i><br><i>Sözlük</i>
+
+@ Windlow'un Mezbahaları
+Letheras'ta bir kesimhane<br><hr style="border: 7px solid green; width:20%; margin-left:0;"></hr><br><i>Lether'de Yer Adları</i><br><i>Sözlük</i>
+
+@ Ateşkes Humması
+yaygın, iyileştirilebilir bir ateşli hastalık<br><hr style="border: 7px solid green; width:20%; margin-left:0;"></hr><br><i>Letherii Tabirleri</i><br><i>Sözlük</i>
+
+@ Boş Tahtın Peçeli Bacıları
+Eğitimciler<br><hr style="border: 7px solid green; width:20%; margin-left:0;"></hr><br><i>Letherii Tabirleri</i><br><i>Sözlük</i>
+
+@ Çeki
+en düşük Lether para birimi<br><hr style="border: 7px solid green; width:20%; margin-left:0;"></hr><br><i>Letherii Tabirleri</i><br><i>Sözlük</i>
+
+@ Dişli Süt
+alkollü bir içecek<br><hr style="border: 7px solid green; width:20%; margin-left:0;"></hr><br><i>Letherii Tabirleri</i><br><i>Sözlük</i>
+
+@ Dok
+en yaygın Lether para birimi<br><hr style="border: 7px solid green; width:20%; margin-left:0;"></hr><br><i>Letherii Tabirleri</i><br><i>Sözlük</i>
+
+@ Dresh Balistası
+çok oklu bir savaş silahı<br><hr style="border: 7px solid green; width:20%; margin-left:0;"></hr><br><i>Letherii Tabirleri</i><br><i>Sözlük</i>
+
+@ Düzük
+Lether'in zenginlerinin parası<br><hr style="border: 7px solid green; width:20%; margin-left:0;"></hr><br><i>Letherii Tabirleri</i><br><i>Sözlük</i>
+
+@ Lether Çeliği
+gizli bir demircilik yöntemi<br><hr style="border: 7px solid green; width:20%; margin-left:0;"></hr><br><i>Letherii Tabirleri</i><br><i>Sözlük</i>
+
+@ Letherii
+Letherli; ayrıca dilin ve halkın adı<br><hr style="border: 7px solid green; width:20%; margin-left:0;"></hr><br><i>Letherii Tabirleri</i><br><i>Sözlük</i>
+
+@ Lupe Balığı
+Lether Nehri'nde ve Letheras kanallarında yaşayan iri, etobur bir balık <br><hr style="border: 7px solid green; width:20%; margin-left:0;"></hr><br><i>Letherii Tabirleri</i><br><i>Sözlük</i>
+
+@ Mavi Tarz Çelik
+eski bir demircilik yöntemi<br><hr style="border: 7px solid green; width:20%; margin-left:0;"></hr><br><i>Letherii Tabirleri</i><br><i>Sözlük</i>
+
+@ Ootooloo
+Mavigül'e has ilkel ama eşsiz bir deniz yaratığı<br><hr style="border: 7px solid green; width:20%; margin-left:0;"></hr><br><i>Letherii Tabirleri</i><br><i>Sözlük</i>
+
+@ Pik
+Lether'in aşırı zenginlerinin parası<br><hr style="border: 7px solid green; width:20%; margin-left:0;"></hr><br><i>Letherii Tabirleri</i><br><i>Sözlük</i>
+
+@ Yedinci Sonlanış
+kehanet edilen rönesans<br><hr style="border: 7px solid green; width:20%; margin-left:0;"></hr><br><i>Letherii Tabirleri</i><br><i>Sözlük</i>
+
+@ Arapay
+boyun eğdirilmiş en doğu Tiste Edur kabilesi<br><hr style="border: 7px solid green; width:20%; margin-left:0;"></hr><br><i>Tiste Edur Yerleri ve Adları</i><br><i>Sözlük</i>
+
+@ Beneda
+boyun eğdirilmiş Tiste Edur kabilesi<br><hr style="border: 7px solid green; width:20%; margin-left:0;"></hr><br><i>Tiste Edur Yerleri ve Adları</i><br><i>Sözlük</i>
+
+@ Den—Ratha
+boyun eğdirilmiş en kuzey Tiste Edur kabilesi<br><hr style="border: 7px solid green; width:20%; margin-left:0;"></hr><br><i>Tiste Edur Yerleri ve Adları</i><br><i>Sözlük</i>
+
+@ Hasana Koyu
+Tiste Edurların bir koyu<br><hr style="border: 7px solid green; width:20%; margin-left:0;"></hr><br><i>Tiste Edur Yerleri ve Adları</i><br><i>Sözlük</i>
+
+@ Hiroth
+egemen Tiste Edur kabilesi<br><hr style="border: 7px solid green; width:20%; margin-left:0;"></hr><br><i>Tiste Edur Yerleri ve Adları</i><br><i>Sözlük</i>
+
+@ Kalak Üreme Yatakları
+Dişli Fokların ürediği sahil şeridi<br><hr style="border: 7px solid green; width:20%; margin-left:0;"></hr><br><i>Tiste Edur Yerleri ve Adları</i><br><i>Sözlük</i>
+
+@ Kaschan Koyu
+Tiste Edurların hak iddia ettiği bir koy<br><hr style="border: 7px solid green; width:20%; margin-left:0;"></hr><br><i>Tiste Edur Yerleri ve Adları</i><br><i>Sözlük</i>
+
+@ Knarri
+bir balina ve balık avı teknesi<br><hr style="border: 7px solid green; width:20%; margin-left:0;"></hr><br><i>Tiste Edur Yerleri ve Adları</i><br><i>Sözlük</i>
+
+@ K'orthan
+akıncı şalupası<br><hr style="border: 7px solid green; width:20%; margin-left:0;"></hr><br><i>Tiste Edur Yerleri ve Adları</i><br><i>Sözlük</i>
+
+@ K'risnan
+Bağcı Kral'ın efsuncular heyeti<br><hr style="border: 7px solid green; width:20%; margin-left:0;"></hr><br><i>Tiste Edur Yerleri ve Adları</i><br><i>Sözlük</i>
+
+@ Merude
+boyun eğdirilmiş Tiste Edur kabilesi<br><hr style="border: 7px solid green; width:20%; margin-left:0;"></hr><br><i>Tiste Edur Yerleri ve Adları</i><br><i>Sözlük</i>
+
+@ Morok Ağacı
+cenaze uygulamalarında kullanılan mavi yapraklı bir ağaç<br><hr style="border: 7px solid green; width:20%; margin-left:0;"></hr><br><i>Tiste Edur Yerleri ve Adları</i><br><i>Sözlük</i>
+
+@ Sollanta
+boyun eğdirilmiş Tiste Edur kabilesi<br><hr style="border: 7px solid green; width:20%; margin-left:0;"></hr><br><i>Tiste Edur Yerleri ve Adları</i><br><i>Sözlük</i>
+
+@ Taşçanak
+ana Hiroth köyünün kuzeyindeki bir koyağın dibinde bulunan doğal bir çöküntü<br><hr style="border: 7px solid green; width:20%; margin-left:0;"></hr><br><i>Tiste Edur Yerleri ve Adları</i><br><i>Sözlük</i>
+
+@ Akik Sihirbazlar
+Mavigül'ün (fetih sırasında mağlup edilen) efsuncuları<br><hr style="border: 7px solid green; width:20%; margin-left:0;"></hr><br><i>Diğer Adlar, Unvanlar ve Tabirler</i><br><i>Sözlük</i>
+
+@ Eres'al
+Nereklerin hülasa tanrıçası<br><hr style="border: 7px solid green; width:20%; margin-left:0;"></hr><br><i>Diğer Adlar, Unvanlar ve Tabirler</i><br><i>Sözlük</i>
+
+@ Faraed
+Lether'de özümsenmiş bir halk<br><hr style="border: 7px solid green; width:20%; margin-left:0;"></hr><br><i>Diğer Adlar, Unvanlar ve Tabirler</i><br><i>Sözlük</i>
+
+@ Fent
+Lether'de özümsenmiş bir halk<br><hr style="border: 7px solid green; width:20%; margin-left:0;"></hr><br><i>Diğer Adlar, Unvanlar ve Tabirler</i><br><i>Sözlük</i>
+
+@ Jheck
+bir kuzey kabilesi<br><hr style="border: 7px solid green; width:20%; margin-left:0;"></hr><br><i>Diğer Adlar, Unvanlar ve Tabirler</i><br><i>Sözlük</i>
+
+@ Ken'ryllah
+bir tür iblis<br><hr style="border: 7px solid green; width:20%; margin-left:0;"></hr><br><i>Diğer Adlar, Unvanlar ve Tabirler</i><br><i>Sözlük</i>
+
+@ Kenyll'rah
+bir tür iblis<br><hr style="border: 7px solid green; width:20%; margin-left:0;"></hr><br><i>Diğer Adlar, Unvanlar ve Tabirler</i><br><i>Sözlük</i>
+
+@ Khalibaral
+bir tür iblis<br><hr style="border: 7px solid green; width:20%; margin-left:0;"></hr><br><i>Diğer Adlar, Unvanlar ve Tabirler</i><br><i>Sözlük</i>
+
+@ Meckros
+seyyar, yüzen şehirlere sahip bir uygarlık<br><hr style="border: 7px solid green; width:20%; margin-left:0;"></hr><br><i>Diğer Adlar, Unvanlar ve Tabirler</i><br><i>Sözlük</i>
+
+@ N'purel
+Kenyll'rah ana dünyasına özgü Bıyıklı Balık<br><hr style="border: 7px solid green; width:20%; margin-left:0;"></hr><br><i>Diğer Adlar, Unvanlar ve Tabirler</i><br><i>Sözlük</i>
+
+@ Nachtlar
+bhok'aralların Jaghutlar tarafından yetiştirilmiş versiyonları<br><hr style="border: 7px solid green; width:20%; margin-left:0;"></hr><br><i>Diğer Adlar, Unvanlar ve Tabirler</i><br><i>Sözlük</i>
+
+@ Nerek
+Lether'de özümsenmiş bir halk<br><hr style="border: 7px solid green; width:20%; margin-left:0;"></hr><br><i>Diğer Adlar, Unvanlar ve Tabirler</i><br><i>Sözlük</i>
+
+@ Seregahllar
+Tarthenalların beş tanrısı<br><hr style="border: 7px solid green; width:20%; margin-left:0;"></hr><br><i>Diğer Adlar, Unvanlar ve Tabirler</i><br><i>Sözlük</i>
+
+@ Tarthenal
+Lether'de özümsenmiş bir halk<br><hr style="border: 7px solid green; width:20%; margin-left:0;"></hr><br><i>Diğer Adlar, Unvanlar ve Tabirler</i><br><i>Sözlük</i>
+
+@ Kara Kanatlı Lord
+Mavigül'de tapılan ilah<br><hr style="border: 7px solid green; width:20%; margin-left:0;"></hr><br><i>Mitos (Letherii, Edur ve Diğerleri)</i><br><i>Sözlük</i>
+
+@ Kilmandaros
+bir Ata Tanrıça<br><hr style="border: 7px solid green; width:20%; margin-left:0;"></hr><br><i>Mitos (Letherii, Edur ve Diğerleri)</i><br><i>Sözlük</i>
+
+@ Mael
+bir Ata Tanrı<br><hr style="border: 7px solid green; width:20%; margin-left:0;"></hr><br><i>Mitos (Letherii, Edur ve Diğerleri)</i><br><i>Sözlük</i>
+
